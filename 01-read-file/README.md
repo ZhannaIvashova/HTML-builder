@@ -1,4 +1,4 @@
-## Reading a File with Console Output
+D## Reading a File with Console Output
 
 In the file `index.js` within the directory `01-read-file`, develop a script that outputs the contents of the file `text.txt` to the console.
 
